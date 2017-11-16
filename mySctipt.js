@@ -1,0 +1,32 @@
+$(document).ready(function(){
+  $("#mijnKnop1").click(function(){
+    $("#tekst1").show(1000);
+    $("#mijnBackKnop1").show(100);
+  });
+  $("#mijnBackKnop1").click(function(){
+    $("#tekst1").hide(1000);
+    $("#mijnBackKnop1").hide(100);
+  });
+});
+
+$(document).ready(function(){
+  $("#mijnKnop2").click(function(){
+    $("#tekst2").show(1000);
+    $("#mijnBackKnop2").show(100);
+  });
+  $("#mijnBackKnop2").click(function(){
+    $("#tekst2").hide(1000);
+    $("#mijnBackKnop2").hide(100);
+  });
+});
+
+$(document).ready(function(){
+  $("#mijnKnop3").click(function(){
+    $("#tekst3").show(1000);
+    $("#mijnBackKnop3").show(100);
+  });
+  $("#mijnBackKnop3").click(function(){
+    $("#tekst3").hide(1000);
+    $("#mijnBackKnop3").hide(100);
+  });
+});

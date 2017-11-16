@@ -1,0 +1,18 @@
+#mijnKnop1, #mijnKnop2, #mijnKnop3{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#tekst1, #tekst2, #tekst3{
+  display: none;
+}
+#mijnBackKnop1, #mijnBackKnop2, #mijnBackKnop3{
+  display: none;
+}
+.row{
+  margin-top: 50px;
+}
+
+.btn{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
